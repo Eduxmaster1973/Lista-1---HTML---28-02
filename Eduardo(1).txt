@@ -1,0 +1,395 @@
+<!--1) Faça uma página em html paraexibi o seguinte resultado:-->
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Lista de exercícios de HTML 1</title>
+</head>
+<body>
+1. Fechar contrato</br>
+2. Análise de sistema</br>
+&nbsp;&nbsp;&nbsp;&nbsp;1. Avaliação da empresa</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;    1. Entrevista com</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;       funcionários</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;    2. Pesquisa de</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;       documentação da</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;&emsp;       empresa</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   2. Programação</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   3. Aprovação do projeto</br>
+3. Treinamento dos usuário</br>
+</body>
+</html>
+
+<!--2)Faça uma página em html para exibir o seguinte resultado::-->
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Lista de exercícios de HTML 1</title>
+</head>
+<body>
+1. Titanic<br />
+2. Meu primeiro amor<br />
+3. Uma linda mulher<br /><br />
+
+10. Exterminador do futuro II<br />
+11. De volta para o futuro I, II, III<br />
+12. Idiana Jones<br /><br />
+
+20. Sexta-feira 13<br />
+21. A hora do pesadelo
+</body>
+</html>
+
+<!--3)Faça uma página com o seguinte efeito:-->
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Lista de exercícios de HTML 1</title>
+</head>
+<body>
+<p> <img src="imagens/cachorro.png" width="150" height="100" align="left">
+<center>Com esta página estou mostrando uma<br />
+forma de colocar um texto entre duas<br />
+figuras.<br /></center>
+<p> <img src="imagens/cachorro.png" width="150" height="100" align="right">
+
+</body>
+</html>
+
+<!--4)Faça uma página com o seguinte efeito:-->
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Lista de exercícios de HTML 1</title>
+</head>
+<body>
+<p> <img src="imagens/flor.png" width="200" height="200" align="left">
+<strong><font color="black" size="5">Soneto da fidelidade</font></size></strong><br />
+Que tudo ao amor serei atento<br />
+Antes, e com tal zelo e sempre tanto<br />
+Que mesmo em face do maior encanto<br />
+Dele se encante o meu pensamento<br />
+Quero vove-lo em cada vão momento<br />
+E em seu louvor espalhar meu canto<br />
+Rir meu riso e derramar meu pranto<br /><br /><br /><br />
+
+Em seu pesar e em seu contentamento<br /><br />
+E assim, quando mais tarde me procure<br />
+Quem sabe a morte, angustia de quem vive<br />
+Quem sabe a solidão, fim de quem ama<br /><br />
+Eu posso dizer do amor que tive<br />
+Que não seja imortal, posto que é chama<br />
+Mas que seja infinito enquanto dure.<br /><br />
+<p align="Right"> Vinícius de Morais</p>
+</body>
+</html>
+
+<!--5)Faça uma página para exibi a seguinte tabela.-->
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Lista de exercícios de HTML 1</title>
+</head>
+<body>
+
+<table >
+<tr>
+<td>Processador</td>
+<td>Velocidade(MHz)</td>
+<td>Preço de lançamento*</td>
+<td>Data de Lançamento</td>
+<td>Preços em Agosto/2000*</td>
+<td>Queda %</td>
+</tr>
+<tr>
+<td>AMD K-6</td>
+<td>200</td>
+<td>315</td>
+<td>Abril/97</td>
+<td>107</td>
+<td>66</td>
+</tr>
+<tr>
+<td>AMD K-6</td>
+<td>233</td>
+<td>437</td>
+<td>Maio/97</td>
+<td>284</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Cyrix 6x86</td>
+<td>200</td>
+<td>240</td>
+<td>Maio/97</td>
+<td>188</td>
+<td>22</td>
+</tr>
+<tr>
+<td>Cyrix 6x86</td>
+<td>233</td>
+<td>320</td>
+<td>Maio/97</td>
+<td>290</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Intel Pentium II</td>
+<td>233</td>
+<td>636</td>
+<td>Maio/97</td>
+<td>530</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Intel Pentium II</td>
+<td>266</td>
+<td>775</td>
+<td>Maio/97</td>
+<td>699</td>
+<td>10</td>
+</tr>
+</table></br></br>
+<body>
+<font size="1" face="Verdana">
+ * Preços FOB da unidade em US$ para lotes de mil; o preço no Brasil fica em média 25% mais caro.</br></br>
+Informações retiradas da revista Informática Exame de setembro/1977</p>
+</body>
+</html>
+
+<!--6)Altere a tabela anterior para ficar da seguinte forma:-->
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Lista de exercícios de HTML 1</title>
+</head>
+<body>
+&nbsp;&nbsp;&nbsp;&nbsp;<font color="red" size="3">Exemplo de Tabela</font></size></br></br>
+<font color="black" size="4"><center>A queda de preço de três marcas de chips</center></font></br>
+<table border="1" cellspacing=0 cellpadding=15 bordercolor="#C8C8C8">
+<tr>
+<td>Processador</td>
+<td>Velocidade(MHz)</td>
+<td>Preço de lançamento*</td>
+<td>Data de Lançamento</td>
+<td>Preços em Agosto/2000*</td>
+<td>Queda %</td>
+</tr>
+<tr>
+<td>AMD K-6</td>
+<td>200</td>
+<td>315</td>
+<td>Abril/97</td>
+<td>107</td>
+<td>66</td>
+</tr>
+<tr>
+<td>AMD K-6</td>
+<td>233</td>
+<td>437</td>
+<td>Maio/97</td>
+<td>284</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Cyrix 6x86</td>
+<td>200</td>
+<td>240</td>
+<td>Maio/97</td>
+<td>188</td>
+<td>22</td>
+</tr>
+<tr>
+<td>Cyrix 6x86</td>
+<td>233</td>
+<td>320</td>
+<td>Maio/97</td>
+<td>290</td>
+<td>9</td>
+</tr>
+<tr>
+<td>Intel Pentium II</td>
+<td>233</td>
+<td>636</td>
+<td>Maio/97</td>
+<td>530</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Intel Pentium II</td>
+<td>266</td>
+<td>775</td>
+<td>Maio/97</td>
+<td>699</td>
+<td>10</td>
+</tr>
+</table></br></br>
+<body>
+<font size="1" face="Verdana">
+ * Preços FOB da unidade em US$ para lotes de mil; o preço no Brasil fica em média 25% mais caro.</br></br>
+Informações retiradas da revista Informática Exame de setembro/1977</p>
+</body>
+</html>
+
+
+<!--7)Criando uma tabela dentro de uma célula. Veja o resultado.-->
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Lista de exercícios de HTML 1</title>
+</head>
+<body>
+&nbsp;&nbsp;&nbsp;&nbsp;<font color="red" size="3">Exemplo de Tabela</font></size></br></br>
+<font color="black" size="4"><center>A queda de preço de três marcas de chips</center></font></br>
+<table border="1" cellspacing=0 cellpadding=1 bordercolor="#C8C8C8">
+<tr>
+<td>COD</td>
+<td>DESCRIÇÃO</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>001</td>
+<td>ASSADO</td>
+<td>Frango</td>
+<td WIDTH=800 WIDTH=100>R$ 10,00</td>
+</tr>
+<tr>
+<td>002</td>
+<td></td>
+<td>Frango</td>
+<td>R$ 15,00</td>
+</tr>
+<tr>
+<tr>
+<td>001</td>
+<td></td>
+<td>Pato</td>
+<td>R$ 12,00</td>
+</tr>
+<tr>
+<td>003</td>
+<td></td>
+<td>Pato</td>
+<td>R$ 17,00</td>
+</tr>
+<tr>
+<td>001</td>
+<td></td>
+<td>Peixe</td>
+<td>R$ 6,00</td>
+</tr>
+<tr>
+<td>002</td>
+<td></td>
+<td>Peixe</td>
+<td>R$ 9,00</td>
+</tr>
+<TABLE BORDER=1 CELLPADDING=4 align="right">
+<TR>
+
+<TD ROWSPAN=5 WIDTH=800 WIDTH=100 align=center>REFERENCIAS DE CÓDIGOS</TD>
+
+<tr>
+<td>COD</td>
+<td>FUNÇÃO</td>
+</tr>
+<tr>
+<td>001</td>
+<td WIDTH=200 WIDTH=100>R$ 10,00</td>
+</tr>
+<tr>
+<td>002</td>
+<td>GRELHADO</td>
+</tr>
+<tr>
+<td>003</td>
+<td>AO MOLHO</td>
+</tr>
+</html>
+
+<!--9)Faça a tela a baixo-->
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Lista de exercícios de HTML 1</title>
+</head>
+<body>
+<div style="background:white; width:500px;border: 1px solid #0000FF;">
+<strong><font color="black" size="6">Entre em contato</font></strong></br></br>
+<form action="/action_page.php">
+  &#160 <input type="text" name="Enome" placeholder="Tiago Vale">  Nome <br>
+  </br>
+  &#160  <input type="tel" name="Etel" placeholder="(xx)xx-xx-xx-xx">  Fone <br>
+  </br>
+  &#160  <input type="email" name="Eemail" placeholder="fulano@mail.com">  Email<br>
+  </br>
+  &#160  <textarea rows="7" cols="30" maxlength="200" placeholder="Deixe sua opnião"></textarea>
+  </br></br>
+  &#160<input type="submit" value="Enviar">
+  </br>
+  </br>
+</body>  
+</form>
+</div>
+</html>
+
+<!--10). Crie um novo formulário utilizando todos os tipo de inputs do HTML5-->
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Lista de exercícios de HTML 1</title>
+</head>
+<body>
+<strong><font color="black" size="6">Tipos de Inputs</font></strong></br></br>
+<form action="/action_page.php">
+&#160 <input type="text" name="Enome">  Nome <br>
+  </br>
+  &#160  <input type="tel" name="Etel">  Fone <br>
+  </br>
+  &#160  <input type="email" name="Eemail">  Email<br>
+  </br>
+   &#160  <input type="search" name="Ebusca">  Pesquisar<br>
+  </br>
+  &#160  <input type="url" name="Eurl">  URL<br>
+  </br>
+  &#160  <input type="datetime" name="dtHora">  Data/Hora<br>
+  </br>
+   &#160  <input type="date" name="Edata">  Data<br>
+  </br>
+   &#160  <input type="month" name="Emes">  Mês/Ano<br>
+  </br>
+     &#160  <input type="week" name="Esemana">  Semana<br>
+  </br>
+     &#160  <input type="time" name="Ehora">  Hora<br>
+  </br>
+    &#160  <input type="datetime-local" name="Elocal">  Data/Hora<br>
+  </br>
+       &#160  <input type="number" name="Enumero">  Número<br>
+  </br>
+       &#160  <input type="range" name="Erange">  Alcançe<br>
+  </br>
+         &#160  <input type="color" name="Ecor">  Cor<br>
+  </br>
+  &#160  <textarea rows="7" cols="30" maxlength="200"></textarea>
+
+</body>  
+</form>
+</div>
+</html>
